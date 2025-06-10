@@ -1,7 +1,3 @@
-Here’s a professional and well-structured `README.md` tailored to your House Prices prediction project for GitHub:
-
----
-
 # House Prices Prediction (Kaggle - Advanced Regression Techniques)
 
 This project tackles the **House Prices: Advanced Regression Techniques** competition on [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques), where the goal is to predict the final sale price of homes in Ames, Iowa, using various features like property characteristics, location, and quality indicators.
